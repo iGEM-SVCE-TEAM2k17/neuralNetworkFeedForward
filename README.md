@@ -1,2 +1,2 @@
 # neuralNetworkFeedForward
-To classify the Riboswitches based on entropy
+To classify the Riboswitches based on Entropy
